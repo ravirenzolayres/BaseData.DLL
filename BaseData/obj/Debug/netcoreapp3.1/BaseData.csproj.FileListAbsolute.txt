@@ -1,0 +1,16 @@
+D:\repos\BaseData.Solution\BaseData\bin\Debug\netcoreapp3.1\BaseData.deps.json
+D:\repos\BaseData.Solution\BaseData\bin\Debug\netcoreapp3.1\BaseData.dll
+D:\repos\BaseData.Solution\BaseData\bin\Debug\netcoreapp3.1\BaseData.pdb
+D:\repos\BaseData.Solution\BaseData\obj\Debug\netcoreapp3.1\BaseData.AssemblyInfoInputs.cache
+D:\repos\BaseData.Solution\BaseData\obj\Debug\netcoreapp3.1\BaseData.AssemblyInfo.cs
+D:\repos\BaseData.Solution\BaseData\obj\Debug\netcoreapp3.1\BaseData.csproj.CoreCompileInputs.cache
+D:\repos\BaseData.Solution\BaseData\obj\Debug\netcoreapp3.1\BaseData.dll
+D:\repos\BaseData.Solution\BaseData\obj\Debug\netcoreapp3.1\BaseData.pdb
+E:\repos\repos\BaseData.Solution\BaseData\bin\Debug\netcoreapp3.1\BaseData.deps.json
+E:\repos\repos\BaseData.Solution\BaseData\bin\Debug\netcoreapp3.1\BaseData.dll
+E:\repos\repos\BaseData.Solution\BaseData\bin\Debug\netcoreapp3.1\BaseData.pdb
+E:\repos\repos\BaseData.Solution\BaseData\obj\Debug\netcoreapp3.1\BaseData.AssemblyInfoInputs.cache
+E:\repos\repos\BaseData.Solution\BaseData\obj\Debug\netcoreapp3.1\BaseData.AssemblyInfo.cs
+E:\repos\repos\BaseData.Solution\BaseData\obj\Debug\netcoreapp3.1\BaseData.csproj.CoreCompileInputs.cache
+E:\repos\repos\BaseData.Solution\BaseData\obj\Debug\netcoreapp3.1\BaseData.dll
+E:\repos\repos\BaseData.Solution\BaseData\obj\Debug\netcoreapp3.1\BaseData.pdb
